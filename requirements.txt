@@ -10,3 +10,4 @@ langchainhub
 langchain-unstructured
 langchain-pinecone
 pinecone-client
+unstructured
